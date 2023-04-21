@@ -1,2 +1,2 @@
 # datacleaning1
-A short data cleaning project using pyton
+A short data cleaning project using python
